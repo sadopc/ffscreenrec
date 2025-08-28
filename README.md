@@ -2,6 +2,11 @@
 
 A modern Python GUI screen recorder for Windows with hardware acceleration, live preview, and audio mixing.
 
+<img width="1207" height="731" alt="image" src="https://github.com/user-attachments/assets/ec0d2216-073b-4ef7-91b3-76c2a7938fb2" />
+<img width="479" height="732" alt="image" src="https://github.com/user-attachments/assets/dba7ebea-e2a8-4860-ba5d-2d95011e00c7" />
+<img width="442" height="304" alt="image" src="https://github.com/user-attachments/assets/069b2ac8-044b-4fb7-87b8-1ea20faee3e3" />
+
+
 ## Features
 
 ### Video Recording
