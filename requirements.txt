@@ -1,0 +1,27 @@
+# Core GUI Framework
+PySide6>=6.6.0
+
+# Screen capture
+dxcam>=0.0.5  # DirectX screen capture (Windows)
+mss>=9.0.1     # Cross-platform screen capture fallback
+Pillow>=10.0.0 # Image processing
+
+# System utilities
+psutil>=5.9.0  # System and process monitoring
+sounddevice>=0.4.6  # Audio device enumeration
+
+# Windows-specific (optional)
+pywin32>=306; platform_system=='Windows'  # Windows API access
+
+# Development & Testing
+pytest>=7.4.0
+pytest-qt>=4.2.0
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Linting
+
+# Building
+pyinstaller>=6.0.0  # Create standalone executable
+
+# Additional utilities
+numpy>=1.24.0  # Array processing for preview
+packaging>=23.0  # Version comparison
